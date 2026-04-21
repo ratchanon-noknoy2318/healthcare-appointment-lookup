@@ -1,14 +1,19 @@
-# Telemedicine Intake System
+# Telemed Scheduler  
+Next.js telemedicine appointment system
 
-System for digitizing patient intake workflows in municipal healthcare operations.
+---
 
 ## Impact
-- Reduced manual intake workload by 80% through digitization of registration workflow  
-- Deployed in production healthcare environment serving 40K+ population  
-- Implemented within 30-day development cycle under constrained budget  
+- Enabled real-time appointment scheduling for healthcare workflows  
+- Deployed in production using Next.js + Vercel  
+- Improved booking efficiency through digital scheduling system  
+
+---
 
 ## System Design
-Patient → Next.js → Validation Layer → Data Store (Google Sheets) → Staff Interface  
+Patient → Next.js → API → Google Sheets → UI  
+
+---
 
 ## Stack
-Next.js · Node.js · Google Sheets API
+Next.js · CSS · Google Sheets API · Vercel  
