@@ -1,7 +1,7 @@
-<h1 align="center">Appointment lookup system</h1>
+<h1 align="center">Appointment Lookup System (24/7)</h1>
 
 <p align="center">
-24/7 CID self-check replaces phone verification (9:30–16:30)
+24/7 CID-based self-check replacing phone verification (9:30–16:30)
 </p>
 
 <p align="center">
@@ -13,10 +13,10 @@
 ## Features
 
 - 24/7 patient appointment self-check
-- Telemedicine service homepage
-- Service information
+- Telemedicine homepage
+- Service information page
 - Official contact information
-- Frequently Asked Questions (FAQ)
+- FAQ section
 
 ## Tech Stack
 
@@ -26,9 +26,9 @@
 ## Installation
 
 ```bash
-git clone https://github.com/ratchanon-noknoy2318/cid-based-appointment-platform
+git clone https://github.com/ratchanon-noknoy2318/appointment-lookup-24-7
 
-cd cid-based-appointment-platform
+cd appointment-lookup-24-7
 
 npm install
 npm run dev
