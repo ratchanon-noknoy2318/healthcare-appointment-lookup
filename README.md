@@ -1,6 +1,9 @@
 # Appointment Lookup System
 
-**Tech Stack:** Next.js, Google Sheets API, CSS Modules
+## Tech Stack
+- Next.js
+- Google Sheets (CSV / API)
+- CSS Modules
 
 ---
 
